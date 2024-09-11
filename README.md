@@ -13,7 +13,7 @@ I'm a **2nd year Computer Science & Engineering student @ PES University, Bangal
 - Data Structures
 
 ### 💻 Projects
-- **[TinDog](https://github.com/yourusername/tindog)** : A conceptual dating website for dogs
+- **[TinDog]([https://github.com/yourusername/tindog](https://sshivamanand.github.io/TinDog/))** : A conceptual dating website for dogs
 - #### Soon to be Updated 👀
 
 ### 🔍 What I'm Interested In
