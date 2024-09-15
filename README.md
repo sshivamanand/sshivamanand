@@ -13,8 +13,8 @@ I'm a **2nd year Computer Science & Engineering student @ PES University, Bangal
 - Data Structures
 
 ### 💻 Projects
-- *[TinDog](https://sshivamanand.github.io/TinDog/)*: A conceptual dating website for dogs
-- *[Drum Kit](https://sshivamanand.github.io/drum-kit/)*: Interactive project to let you play a few drum sounds by clicking
+- *[TinDog](https://sshivamanand.github.io/TinDog/)* : A conceptual dating website for dogs
+- *[Drum Kit](https://sshivamanand.github.io/drum-kit/)* : Interactive project to let you play a few drum sounds by clicking
 -  Soon to be Updated 👀
 
 ### 🔍 What I'm Interested In
