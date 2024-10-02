@@ -2,7 +2,7 @@
 I'm a **2nd year Computer Science & Engineering student @ PES University, Bangalore**. I'm passionate about full-stack development and machine learning, constantly exploring these technologies and working on improving my coding skills.
 
 ### 🛠️ Skills & Tools
-- **Languages**: Python, C, JavaScript (learning)
+- **Languages**: Python, C, JavaScript 
 - **Frontend**: HTML, CSS
 - **Backend**: Node.js (learning)
 - **Databases**: MySQL
@@ -13,8 +13,8 @@ I'm a **2nd year Computer Science & Engineering student @ PES University, Bangal
 - Data Structures
 
 ### 💻 Projects
-- *[TinDog](https://sshivamanand.github.io/TinDog/)* : A conceptual dating website for dogs
-- *[Drum Kit](https://sshivamanand.github.io/drum-kit/)* : Interactive project to let you play a few drum sounds by clicking
+- *[Simon Game](https://sshivamanand.github.io/simon/)* : Web-based version of the classic Simon memory game.
+- *[To-do List](https://sshivamanand.github.io/todo-list/)* : A simple yet elegant way to keep track of your tasks.
 -  Soon to be Updated 👀
 
 ### 🔍 What I'm Interested In
