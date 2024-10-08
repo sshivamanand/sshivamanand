@@ -15,6 +15,7 @@ I'm a **2nd year Computer Science & Engineering student @ PES University, Bangal
 ### 💻 Projects
 - *[Simon Game](https://sshivamanand.github.io/simon/)* : Web-based version of the classic Simon memory game.
 - *[To-do List](https://sshivamanand.github.io/todo-list/)* : A simple yet elegant way to keep track of your tasks.
+- *[Tic-Tac-Toe]((https://sshivamanand.github.io/tic-tac-toe/))* : A simple, interactive Tic-Tac-Toe game for two players.
 -  Soon to be Updated 👀
 
 ### 🔍 What I'm Interested In
