@@ -4,7 +4,7 @@ I'm a **2nd year Computer Science & Engineering student @ PES University, Bangal
 ### 🛠️ Skills & Tools
 - **Languages**: Python, C, JavaScript 
 - **Frontend**: HTML, CSS
-- **Backend**: Node.js, Express.js (learning)
+- **Backend**: Node.js, Express.js, EJS
 - **Databases**: MySQL
 - **Version Control**: Git, GitHub
 
